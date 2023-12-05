@@ -12,7 +12,7 @@ https://nodejs.org/en/download
 
 Após a instalação:
 1. Realizar o clone do projeto
-2. Inicializar o servidor rodando no terminal o comando: `http.server ./`
+2. Inicializar o servidor rodando no terminal o comando: `http-server ./`
 3. Colar a URL gerada no navegador.
 
 # :hammer_and_wrench: Construído com
