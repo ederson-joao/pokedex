@@ -1,5 +1,5 @@
 # :rocket: Pokédex
-Um projeto desenvolvido inspirado na Pokédex dos famosos jogos e desenhos Pokémon, onde é possível analisar os dados de cada pokémon como: nome, número de identificação, tipos, habilidades, altura e peso.
+Um projeto desenvolvido em aula ministrada pela DIO no curso de JavaScript, inspirado na Pokédex dos famosos jogos e desenhos Pokémon, onde é possível analisar os dados de cada pokémon como: nome, número de identificação, tipos, habilidades, altura e peso.
 
 # :hammer_and_wrench: Construído com
 * HTML
